@@ -8,9 +8,8 @@ body {
    display: flex;
    justify-content: center;
   }
-  div{
-   margin: 0px;
-   margin-right: 20px;
+  .chamadatexto{
+   margin-right: 5%;
 }
 
 header { 
